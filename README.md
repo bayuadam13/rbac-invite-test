@@ -219,4 +219,4 @@ npm run dev
 - CORS sudah disiapkan  
 - Seed script menyediakan demo accounts + sample data  
 
-> Dengan README ini, siapapun dapat **clone → install → jalankan → test seluruh fitur** tanpa setup tambahan.
+Link Deploy : https://frontend-xmww5eulj-bayus-projects-9be3f67e.vercel.app/
