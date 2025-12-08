@@ -1,0 +1,37 @@
+# --- GLOBAL ---
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- ENV ---
+.env
+.env.local
+.env.*.local
+
+# --- PYTHON / DJANGO ---
+backend/**/__pycache__/
+backend/**/migrations/__pycache__/
+backend/**/migrations/*.pyc
+backend/**/*.pyc
+backend/venv/
+backend/.venv/
+backend/env/
+backend/db.sqlite3
+backend/staticfiles/
+backend/media/
+
+# --- NEXT.JS / NODEJS ---
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/dist/
+frontend/build/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# --- OTHER ---
+*.log
