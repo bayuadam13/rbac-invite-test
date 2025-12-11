@@ -219,4 +219,4 @@ npm run dev
 - CORS sudah disiapkan  
 - Seed script menyediakan demo accounts + sample data  
 
-Link Deploy : https://frontend-xmww5eulj-bayus-projects-9be3f67e.vercel.app/
+
