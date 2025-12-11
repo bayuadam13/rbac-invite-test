@@ -227,5 +227,6 @@ https://frontend-eight-iota-46.vercel.app/
 ---
 ## Console Link Invitation 
 
-![Alt Text](Screenshot 2025-12-11 204031.png)
+![Alt Text](invite.png)
+
 
