@@ -220,3 +220,8 @@ npm run dev
 - Seed script menyediakan demo accounts + sample data  
 
 
+
+## 13 Deploy Link
+---
+https://frontend-eight-iota-46.vercel.app/
+---
